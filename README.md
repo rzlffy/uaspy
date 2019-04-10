@@ -7,9 +7,7 @@ silakan tuliskan langkah-langkah disertai screenshotnya
 Langkah pertama, silahkan kalian "fork" project yang sudah disediakan oleh dosen.
 ```
 Klik bagian yang dilingkarkan :
-
 ![1 Fork](https://user-images.githubusercontent.com/46733958/55855794-ab5f1980-5b92-11e9-9224-5af7b4cce895.png)
-
 ```
 
 #Step 2
