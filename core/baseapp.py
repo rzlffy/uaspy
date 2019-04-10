@@ -34,10 +34,10 @@ class BaseApp:
         self.running = False
 
     def on_playing(self):
-        pass
+        self.check_collision(self.player, self.enemies)
 
     def stop(self):
-        self.running = False
+        self.stop = False
 
     def check_collision(self, sprite, group, dokill=True):
         return pygame.sprite.spritecollide(sprite, group, dokill)
